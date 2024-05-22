@@ -4319,3 +4319,8 @@ body.is-preload #banner p {
 	}
 
 }
+
+div .contact {
+	display: flex;
+	gap: 5px;
+}
